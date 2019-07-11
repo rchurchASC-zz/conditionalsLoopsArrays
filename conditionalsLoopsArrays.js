@@ -21,7 +21,8 @@ console.log("Challenge #3:");
 // the user's second command line argument
 // NOTE: consider what data type command line arguments come in as
 // console.log the "roster" array
-
+    roster.pop();
+    console.log(roster);
 //////////////////
 // CONDITIONALS //
 //////////////////
